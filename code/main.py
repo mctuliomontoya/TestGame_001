@@ -1,4 +1,4 @@
-import pygame as py
+import pygame as pg
 import sys
 from settings import *
 
