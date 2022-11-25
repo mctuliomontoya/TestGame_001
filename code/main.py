@@ -5,7 +5,7 @@ from settings import *
 class Game:
     def __init__(self):
         pg.init()
-        self.screen = pg.display.setmode((SCREEN_WIDTH,SCREEN_HEIGHT))
+        self.screen = pg.display.set_mode((SCREEN_WIDTH,SCREEN_HEIGHT))
         self.clock = pg.time.Clock()
 
     def run(self):
