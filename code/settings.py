@@ -15,8 +15,8 @@ PLAYER_TOOL_OFFSET = {
     'right' : Vector2(50,40),
     'up' : Vector2(0,-10),
     'down' : Vector2(0,50)
-
 }
+
 LAYERS = {
     'water' : 0,
     'ground' : 1,
@@ -29,6 +29,5 @@ LAYERS = {
     'house top' : 8,
     'fruit' : 9,
     'rain drops' : 10
-
 }
 
