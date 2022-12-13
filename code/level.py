@@ -1,5 +1,6 @@
 import pygame
 from settings import *
+from Player import Player
 
 class Level:
     def __init__(self):
